@@ -1,5 +1,6 @@
 <h1 align="center">👋 Alex Ferman</h1>
 <h3 align="center">Desenvolvedor web fullstack</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afermanx&label=Profile%20views&color=0e75b6&style=flat" alt="afermanx" /> </p>
 
 
 
