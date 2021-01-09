@@ -3,7 +3,7 @@
 
 
 
-Atualmente, estou trabalhando como dev web fullstack <a  href="https://sispel-ro.com.br/" target="_blank"> <img href="https://viaescolar.com/wp-content/uploads/2020/06/logo_ve80.png" width="40" height="40" /> Sispel - Sistemas Integrados De Software </a> Projeto - <a href="https://viaescolar.com/" target="_blank" >**ViaEscolar**</a>
+Atualmente, estou trabalhando como dev web fullstack <a  href="https://sispel-ro.com.br/" target="_blank"> <img src="https://sispel-ro.com.br/wp-content/uploads/2020/06/logo_sispel.png" alt="SISPEL" width="80" /> Sistemas Integrados De Software </a> Projeto - <a href="https://viaescolar.com/" target="_blank" > <img src="https://viaescolar.com/wp-content/uploads/2020/06/logo_viaescolar_fundo.png" alt="VIAESCOLAR" width="100" /></a>
 
 
 <h3 align="left">Linguagens e ferramentas:</h3>
