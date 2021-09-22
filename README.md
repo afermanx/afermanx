@@ -2,7 +2,6 @@
 <h3 align="center">Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afermanx&label=Profile%20views&color=0e75b6&style=flat" alt="afermanx" /> </p>
 
-I'm currently working as a web developer at the company <a  href="https://sispel-ro.com.br/" target="_blank"> <img   class="circle" src="https://sispel-ro.com.br/wp-content/uploads/2020/06/logo_sispel.png" alt="SISPEL" width="80" /> Integrated Software Systems </a> in projects - <a href="https://viaescolar.com/" target="_blank" > ViaEscolar School public transport management system </a>, <a href="https://svgs.com.br/" target="_blank" > Health Surveillance and Management System.</a>
 
 ## 💻 Technologies & Tools
 
