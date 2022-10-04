@@ -16,3 +16,12 @@
 <!--<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" height="25"/>-->
 
 <img src="https://img.shields.io/badge/mysql%20-%23563D7C.svg?&style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+</p>
+
+## ⭐ GitHub Statistics
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=afermanx&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=afermanx&hide=css,java,html&theme=tokyonight">
+</p>
+
